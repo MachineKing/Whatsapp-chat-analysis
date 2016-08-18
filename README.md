@@ -1,7 +1,9 @@
 # Whatsapp chat analysis
 
 Requirements:
+
 Python 3.5.x
+
 Chat messages as .txt file in utf-8 format
 
 
