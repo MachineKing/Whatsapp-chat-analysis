@@ -1,4 +1,4 @@
-# Whatsapp-chat-analysis
+# Whatsapp chat analysis
 
 Requirements:
 Python 3.5.x
